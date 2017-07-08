@@ -6,7 +6,7 @@ function bubbleSort(arr) {
         arr[i-1] = arr[i];
         arr[i] = temp;
       }
-    console.log(arr);
+    // console.log(arr);
     }
   }
   return arr;
